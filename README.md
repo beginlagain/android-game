@@ -1,1 +1,1 @@
-# Android Game by Zhangbo and Zhoushaoxiong
+# Android Game by Zhangbo and Zoushaoxiong
