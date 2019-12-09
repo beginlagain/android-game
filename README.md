@@ -1,1 +1,1 @@
-# Android Game by Zhangbo and Zoushaoxiong
+# Android Game is powered by Zhangbo and Zoushaoxiong
